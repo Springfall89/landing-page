@@ -1,0 +1,23 @@
+/*=====================================
+                CLASSES
+=======================================*/
+.hero-section
+{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    min-height: 500px;
+    height: 500px;
+}
+/*=====================================
+                    IDS
+=======================================*/
+#hero-main-text
+{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+#hero-sub-text
+{
+    font-size: 18px;
+}
