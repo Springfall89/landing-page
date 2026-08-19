@@ -40,3 +40,9 @@ body
     text-decoration: none;
     color: #F9FAF8;
 }
+
+.content
+{
+    display: flex;
+    flex-direction: column;
+}
