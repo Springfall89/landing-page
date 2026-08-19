@@ -12,6 +12,13 @@
     min-height: 500px;
     height: 500px;
 }
+
+.hero-button
+{
+    background-color: #3882F6;
+    font-weight: 900;
+    font-size: 24px;
+}
 /*=====================================
                     IDS
 =======================================*/
