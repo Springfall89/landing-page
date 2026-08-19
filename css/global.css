@@ -11,7 +11,6 @@ body
 {
     background-color: #1F2937;
     color: #F9FAF8;
-    font-size: 24px;
 }
 
 .header-left
@@ -27,4 +26,5 @@ body
 .header-logo
 {
     font-weight: 700;
+    font-size: 24px;
 }
