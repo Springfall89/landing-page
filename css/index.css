@@ -21,3 +21,10 @@
 {
     font-size: 18px;
 }
+
+#hero-image
+{
+    max-width: 500px;
+    aspect-ratio: 4 / 2;
+    object-fit: cover;
+}
