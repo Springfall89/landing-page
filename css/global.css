@@ -34,3 +34,9 @@ body
     font-weight: 700;
     font-size: 24px;
 }
+
+.header-link
+{
+    text-decoration: none;
+    color: #F9FAF8;
+}
