@@ -3,6 +3,10 @@
 =======================================*/
 .hero-section
 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
     background-color: #1F2937;
     color: #F9FAF8;
     min-height: 500px;
