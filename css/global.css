@@ -11,16 +11,20 @@ body
 {
     background-color: #1F2937;
     color: #F9FAF8;
+    display: flex;
+    justify-content: space-around;
 }
 
 .header-left
 {
-
+    display: flex;
+    align-items: center;
 }
 
 .header-right
 {
-
+    display: flex;
+    align-items: center;
 }
 
 .header-logo
