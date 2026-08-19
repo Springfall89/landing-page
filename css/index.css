@@ -11,6 +11,8 @@
     color: #F9FAF8;
     min-height: 500px;
     height: 500px;
+    display: flex;
+    gap: 32px;
 }
 
 .hero-button
