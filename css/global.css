@@ -46,3 +46,10 @@ body
     display: flex;
     flex-direction: column;
 }
+
+.hero-section
+{
+    background-color: #1F2937;
+    min-height: 500px;
+    height: 500px;
+}
