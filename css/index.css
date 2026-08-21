@@ -24,6 +24,13 @@
     gap: 16px;
 }
 
+.hero-right
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .hero-button
 {    
     padding-top: 10px;
