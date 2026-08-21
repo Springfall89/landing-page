@@ -54,6 +54,7 @@
     min-height: 500px;
     height: 500px;
     display: flex;
+    flex-direction: column;
     gap: 32px;
 }
 /*=====================================
