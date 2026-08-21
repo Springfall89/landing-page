@@ -80,3 +80,10 @@
     aspect-ratio: 4 / 2;
     object-fit: cover;
 }
+
+#goal-main-text
+{
+    font-size: 36px;
+    font-weight: 900;
+    margin: 0;
+}
