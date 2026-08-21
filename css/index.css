@@ -57,6 +57,12 @@
     flex-direction: column;
     gap: 32px;
 }
+
+.goal-top
+{
+    display: flex;
+    justify-content: center;
+}
 /*=====================================
                     IDS
 =======================================*/
