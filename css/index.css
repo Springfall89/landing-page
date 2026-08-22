@@ -92,6 +92,12 @@
     margin: 0;
 }
 
+#goal-sub-text
+{
+    font-size: 18px;
+    margin: 0;
+}
+
 #hero-image
 {
     max-width: 500px;
