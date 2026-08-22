@@ -63,6 +63,11 @@
     display: flex;
     justify-content: center;
 }
+
+.goal
+{
+    max-width: 200px;
+}
 /*=====================================
                     IDS
 =======================================*/
@@ -92,4 +97,9 @@
     font-size: 36px;
     font-weight: 900;
     margin: 0;
+}
+
+#goal-image
+{
+    max-width: 200px;
 }
