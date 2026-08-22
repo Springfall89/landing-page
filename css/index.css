@@ -64,6 +64,12 @@
     justify-content: center;
 }
 
+.goal-bottom
+{
+    display: flex;
+    justify-content: space-between;
+}
+
 .goal
 {
     max-width: 200px;
