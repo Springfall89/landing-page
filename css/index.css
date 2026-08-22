@@ -78,6 +78,13 @@
     margin: 0;
 }
 
+#goal-main-text
+{
+    font-size: 36px;
+    font-weight: 900;
+    margin: 0;
+}
+
 #hero-sub-text
 {
     font-size: 18px;
@@ -90,13 +97,6 @@
     max-width: 500px;
     aspect-ratio: 4 / 2;
     object-fit: cover;
-}
-
-#goal-main-text
-{
-    font-size: 36px;
-    font-weight: 900;
-    margin: 0;
 }
 
 #goal-image
