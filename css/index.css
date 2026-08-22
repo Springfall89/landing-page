@@ -78,17 +78,17 @@
     margin: 0;
 }
 
-#goal-main-text
-{
-    font-size: 36px;
-    font-weight: 900;
-    margin: 0;
-}
-
 #hero-sub-text
 {
     font-size: 18px;
     color: #E5E7EB;
+    margin: 0;
+}
+
+#goal-main-text
+{
+    font-size: 36px;
+    font-weight: 900;
     margin: 0;
 }
 
