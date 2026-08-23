@@ -136,3 +136,9 @@
     font-weight: 300;
     font-style: italic;
 }
+
+#quote-tag
+{
+    font-size: 18px;
+    font-weight: 900;
+}
