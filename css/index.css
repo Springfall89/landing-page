@@ -82,6 +82,7 @@
     min-height: 400px;
     height: 400px;
     background-color: #E5E7EB;
+    color: #1F2937;
 }
 /*=====================================
                     IDS
@@ -131,7 +132,6 @@
 
 #quote
 {
-    color: #1F2937;
     font-weight: 300;
     font-style: italic;
 }
