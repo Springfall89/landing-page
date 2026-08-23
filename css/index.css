@@ -84,6 +84,7 @@
     background-color: #E5E7EB;
     color: #1F2937;
     display: flex;
+    justify-content: center;
     align-items: center;
 }
 
