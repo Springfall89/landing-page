@@ -86,6 +86,13 @@
     display: flex;
     align-items: center;
 }
+
+.quote-container
+{
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+}
 /*=====================================
                     IDS
 =======================================*/
