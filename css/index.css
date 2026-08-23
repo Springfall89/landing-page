@@ -5,13 +5,12 @@
 {
     padding-top: 25px;
     padding-bottom: 25px;
-    padding-left: 200px;
-    padding-right: 200px;
     background-color: #1F2937;
     color: #F9FAF8;
     min-height: 500px;
     height: 500px;
     display: flex;
+    justify-content: center;
     gap: 32px;
 }
 
