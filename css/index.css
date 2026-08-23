@@ -76,6 +76,11 @@
     flex-direction: column;
     gap: 16px;
 }
+
+.quote-section
+{
+    background-color: #E5E7EB;
+}
 /*=====================================
                     IDS
 =======================================*/
