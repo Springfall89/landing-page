@@ -156,6 +156,7 @@
 #hero-sub-text
 {
     font-size: 18px;
+    line-height: 1.30;
     color: #E5E7EB;
     margin: 0;
 }
@@ -170,6 +171,7 @@
 #goal-sub-text
 {
     font-size: 18px;
+    line-height: 1.30;
     margin: 0;
     text-align: center;
 }
@@ -194,6 +196,7 @@
     margin: 0;
     font-size: 36px;
     font-weight: 300;
+    line-height: 1.30;
     font-style: italic;
 }
 
