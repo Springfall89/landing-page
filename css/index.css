@@ -115,6 +115,7 @@
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
+    gap: 150px;
 }
 
 .call-to-action-button
