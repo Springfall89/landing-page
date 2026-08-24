@@ -124,6 +124,8 @@
     flex-direction: column;
     justify-content: center;
     gap: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
 }
 
 .call-to-action-right
