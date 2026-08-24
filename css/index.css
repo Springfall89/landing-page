@@ -94,6 +94,11 @@
     display: flex;
     flex-direction: column;
 }
+
+.call-to-action
+{
+    max-height: 300px;
+}
 /*=====================================
                     IDS
 =======================================*/
