@@ -118,6 +118,13 @@
     gap: 150px;
 }
 
+.call-to-action-left
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .call-to-action-right
 {
     display: flex;
