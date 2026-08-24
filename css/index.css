@@ -115,6 +115,19 @@
     padding-bottom: 32px;
     border-radius: 10px;
 }
+
+.call-to-action-button
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 32px;
+    padding-right: 32px;
+    border: 5px solid #F9FAF8;
+    border-radius: 10px;
+    background-color: #3882F6;
+    font-weight: 900;
+    font-size: 24px;
+}
 /*=====================================
                     IDS
 =======================================*/
