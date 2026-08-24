@@ -103,6 +103,8 @@
 .call-to-action-container
 {
     background-color: #3882F6;
+    max-width: 400px;
+    max-height: 200px;
 }
 /*=====================================
                     IDS
