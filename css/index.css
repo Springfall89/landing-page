@@ -184,6 +184,7 @@
     max-width: 500px;
     aspect-ratio: 4 / 2;
     object-fit: cover;
+    border-radius: 10px;
 }
 
 #goal-image
