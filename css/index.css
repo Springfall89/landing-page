@@ -168,3 +168,14 @@
     font-weight: 900;
     text-align: end;
 }
+
+#call-to-action-main-text
+{
+    font-size: 24px;
+    font-weight: 900;
+}
+
+#call-to-action-sub-text
+{
+    font-size: 18px;
+}
