@@ -118,6 +118,12 @@
     gap: 150px;
 }
 
+.call-to-action-right
+{
+    display: flex;
+    align-items: center;
+}
+
 .call-to-action-button
 {
     padding-top: 10px;
