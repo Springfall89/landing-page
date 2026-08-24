@@ -102,6 +102,7 @@
 
 .call-to-action-container
 {
+    box-sizing: border-box;
     background-color: #3882F6;
     max-width: 800px;
     color: #F9FAF8;
