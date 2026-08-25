@@ -284,4 +284,11 @@
     {
         width: min(400px, 5%);
     }
+
+    #hero-image
+    {
+        max-width: none;
+        width: min(400px, 90%);
+        height: auto;
+    }
 }
