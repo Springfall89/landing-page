@@ -280,6 +280,12 @@
 }
 @media screen and (max-width: 650px)
 {
+    .hero-container
+    {
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+
     .hero-left
     {
         width: min(400px, 5%);
