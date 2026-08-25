@@ -253,6 +253,12 @@
 =======================================*/
 @media screen and (max-width: 931px)
 {
+    .hero-container
+    {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
     .hero-left
     {
         width: 500px;
