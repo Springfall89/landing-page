@@ -96,6 +96,7 @@
 
 .quote-section
 {
+
     background-color: #E5E7EB;
     color: #1F2937;
     display: flex;
@@ -105,7 +106,7 @@
 
 .quote-container
 {
-    padding: min(50px, 32px);
+    padding: min(100px, 6%);
     max-width: 800px;
     display: flex;
     flex-direction: column;
