@@ -285,6 +285,13 @@
         padding-right: 32px;
     }
 }
+@media screen and (max-width: 906px)
+{
+    .call-to-action-left
+    {
+        align-items: center;
+    }
+}
 @media screen and (max-width: 650px)
 {
     .hero-container
