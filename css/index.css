@@ -25,7 +25,8 @@
 
 .hero-left
 {
-    max-width: 300px;
+    min-width: 300px;
+    width: 0%;
     display: flex;
     flex-direction: column;
     align-items: start;
