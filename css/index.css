@@ -293,6 +293,11 @@
         padding: 0;
     }
 
+    .hero-right
+    {
+        align-items: center;
+    }
+
     #hero-image
     {
         max-width: none;
