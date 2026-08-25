@@ -272,4 +272,9 @@
     {
         text-align: center;
     }
+
+    #hero-image
+    {
+        aspect-ratio: 3 / 2;
+    }
 }
