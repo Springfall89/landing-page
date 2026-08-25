@@ -287,6 +287,12 @@
 }
 @media screen and (max-width: 906px)
 {
+    #call-to-action-main-text,
+    #call-to-action-sub-text
+    {
+        text-align: center;
+    }
+
     .call-to-action-left
     {
         align-items: center;
