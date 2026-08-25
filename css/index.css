@@ -131,8 +131,9 @@
     padding-bottom: 32px;
     border-radius: 10px;
     display: flex;
-    justify-content: space-between;
-    gap: 150px;
+    justify-content: center;
+    gap: 32px 150px;
+    flex-wrap: wrap;
 }
 
 .call-to-action-left
