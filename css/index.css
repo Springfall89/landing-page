@@ -59,7 +59,7 @@
     background-color: #F9FAF8;
     color: #1F2937;
     min-height: 500px;
-    height: 500px;
+    height: 0%;
     display: flex;
     flex-direction: column;
     gap: 32px;
