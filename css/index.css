@@ -267,6 +267,12 @@
         align-items: center;
     }
 
+    .goal-container
+    {
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+
     #hero-main-text,
     #hero-sub-text,
     #goal-main-text
@@ -277,12 +283,6 @@
     #hero-image
     {
         aspect-ratio: 3 / 2;
-    }
-
-    #goal-main-text
-    {
-        padding-left: 32px;
-        padding-right: 32px;
     }
 }
 @media screen and (max-width: 906px)
