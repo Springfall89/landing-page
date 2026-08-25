@@ -226,7 +226,7 @@
 #quote-tag
 {
     margin-bottom: 0;
-    font-size: 24px;
+    font-size: clamp(18px, 5vw, 24px);
     font-weight: 900;
     text-align: end;
 }
