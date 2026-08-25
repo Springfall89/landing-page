@@ -61,6 +61,11 @@
     min-height: 500px;
     height: 0%;
     display: flex;
+}
+
+.goal-container
+{
+    display: flex;
     flex-direction: column;
     gap: 32px;
 }
