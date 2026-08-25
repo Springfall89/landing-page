@@ -114,6 +114,8 @@
 
 .call-to-action
 {
+    box-sizing: border-box;
+    padding: 32px;
     min-height: 300px;
     display: flex;
     justify-content: center;
@@ -132,7 +134,7 @@
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    gap: 32px 150px;
+    gap: 16px 150px;
     flex-wrap: wrap;
 }
 
