@@ -75,3 +75,10 @@ body
         gap: 100px;
     }
 }
+@media screen and (max-width: 450px)
+{
+    .header-right
+    {
+        gap: 50px;
+    }
+}
