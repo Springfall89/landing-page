@@ -217,7 +217,7 @@
 #quote
 {
     margin: 0;
-    font-size: clamp(18px, 5vw, 36px);
+    font-size: clamp(18px, 7.5vw, 36px);
     font-weight: 300;
     line-height: 1.30;
     font-style: italic;
