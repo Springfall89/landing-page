@@ -268,7 +268,8 @@
     }
 
     #hero-main-text,
-    #hero-sub-text
+    #hero-sub-text,
+    #goal-main-text
     {
         text-align: center;
     }
