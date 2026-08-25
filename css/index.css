@@ -247,3 +247,15 @@
     font-size: 18px;
     margin: 0;
 }
+
+/*=====================================
+            SMALL SCREEN SIZES
+=======================================*/
+@media screen and (max-width: 931px)
+{
+    #hero-main-text,
+    #hero-sub-text
+    {
+        text-align: center;
+    }
+}
