@@ -127,8 +127,8 @@
     box-sizing: border-box;
     background-color: #3882F6;
     color: #F9FAF8;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: min(100px, 6%);
+    padding-right: min(100px, 6%);
     padding-top: 32px;
     padding-bottom: 32px;
     border-radius: 10px;
