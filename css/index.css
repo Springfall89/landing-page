@@ -278,3 +278,10 @@
         aspect-ratio: 3 / 2;
     }
 }
+@media screen and (max-width: 650px)
+{
+    .hero-left
+    {
+        width: min(400px, 5%);
+    }
+}
