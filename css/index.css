@@ -171,7 +171,7 @@
 =======================================*/
 #hero-main-text
 {
-    font-size: 48px;
+    font-size: clamp(24px, 10vw, 48px);
     font-weight: 900;
     margin: 0;
 }
