@@ -288,7 +288,9 @@
 
     .hero-left
     {
-        width: min(400px, 5%);
+        min-width: 100px;
+        width: 100%;
+        padding: 0;
     }
 
     #hero-image
