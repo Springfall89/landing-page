@@ -58,3 +58,15 @@ body
     display: flex;
     justify-content: center;
 }
+/*=====================================
+            SMALL SCREEN SIZES
+=======================================*/
+@media screen and (max-width: 600px)
+{
+    .header
+    {
+        height: 100px;
+        flex-direction: column;
+        align-items: center;
+    }
+}
