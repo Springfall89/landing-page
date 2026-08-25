@@ -258,6 +258,7 @@
         width: 500px;
         padding-left: 32px;
         padding-right: 32px;
+        align-items: center;
     }
 
     #hero-main-text,
