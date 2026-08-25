@@ -201,6 +201,7 @@
     display: flex;
     flex: initial;
     max-width: 500px;
+    width: 100%;
     aspect-ratio: 4 / 2;
     object-fit: cover;
     border-radius: 10px;
