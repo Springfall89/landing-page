@@ -3,18 +3,24 @@
 =======================================*/
 .hero-section
 {
-    padding-top: 25px;
-    padding-bottom: 25px;
-    padding-left: 32px;
-    padding-right: 32px;
     background-color: #1F2937;
     color: #F9FAF8;
     min-height: 500px;
     height: 0%;
     display: flex;
     justify-content: center;
-    gap: 32px;
+}
+
+.hero-container
+{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 32px;
+    padding-right: 32px;
+    display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
+    gap: 32px;
 }
 
 .hero-left
