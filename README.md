@@ -1,5 +1,5 @@
 > [!Important]
-> This whole website's contents are created as a   joke and is only meant to be a project created for the Odin Project curriculum.**
+> **This whole website's contents are created as a joke and is only meant to be a project created for the Odin Project curriculum.**
 # Live Website
 **View the live website at https://springfall89.github.io/landing-page/**
 # landing-page
